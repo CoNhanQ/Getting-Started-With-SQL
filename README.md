@@ -1,4 +1,4 @@
-# Getting-Started-With-SQL
+# MySQL Practices
 
 This Repositories contain my practice exercises using MySQL
 
@@ -20,4 +20,4 @@ Link to Tableau: https://public.tableau.com/app/profile/co.nhan/viz/EmployeeData
 
 ## 2. Instagram-Data-Clone
 
-This data set contain made-up data of Instagram's users information. 
+This data set contain made-up data of Instagram's users information.
